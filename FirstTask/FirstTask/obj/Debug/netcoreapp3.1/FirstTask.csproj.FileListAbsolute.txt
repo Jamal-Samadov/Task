@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.exe
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.deps.json
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.json
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.dll
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\bin\Debug\netcoreapp3.1\FirstTask.pdb
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.AssemblyInfo.cs
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.dll
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.pdb
+C:\Users\User\Desktop\New task\FirstTask\FirstTask\obj\Debug\netcoreapp3.1\FirstTask.genruntimeconfig.cache
